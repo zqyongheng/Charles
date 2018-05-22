@@ -8,7 +8,7 @@
 
 ## Coding
 
-<table>
+<table style="width:100%">
     <tr>
         <td>Project</td>
         <td>Classes</td>
